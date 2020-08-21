@@ -24,7 +24,7 @@ Learn how to use MJML to create adaptive emails.
 
 ## Testing
 
- > ***Used service Litmus***
+ > ***Used service Litmus***  
  ![Screen Shot 2020-08-21 at 2 03 15 PM](https://user-images.githubusercontent.com/55539864/90884806-16d90e00-e3b9-11ea-8907-47f65b13bc96.png)
  ![Screen Shot 2020-08-21 at 2 23 23 PM](https://user-images.githubusercontent.com/55539864/90885242-e6de3a80-e3b9-11ea-820d-5a0addfe9352.png)
  ![Screen Shot 2020-08-21 at 2 19 43 PM](https://user-images.githubusercontent.com/55539864/90884994-746d5a80-e3b9-11ea-8cd9-fae2228c6de1.png)
